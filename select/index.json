@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ドッタバッタ珍道中！",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-10T13:19:19.021331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドッタバッタ珍道中！(Dotta Batta Chindochu!)",
+      "artist": "大神ミオ (Ookami Mio)",
+      "has_synced": true,
+      "path": "select/01_ドッタバッタ珍道中!(Dotta_Batta_Chindochu!)_大神ミオ_(Ookami_Mio).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドッタバッタ珍道中！",
+      "artist": "Mio Channel 大神ミオ",
+      "has_synced": true,
+      "path": "select/02_ドッタバッタ珍道中!_Mio_Channel_大神ミオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "【MV】ドッタバッタ珍道中！ / 大神ミオ feat. 白上フブキ.大空スバル.さくらみこ",
+      "artist": "Mio Channel 大神ミオ",
+      "has_synced": true,
+      "path": "select/03_【MV】ドッタバッタ珍道中!___大神ミオ_feat._白上フブキ.大空スバル.さくらみこ_Mio_Channel_大神ミオ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドッタバッタ珍道中!",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_ドッタバッタ珍道中!_大神ミオ.txt"
+    }
+  ]
+}
